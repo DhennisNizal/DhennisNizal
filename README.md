@@ -4,7 +4,7 @@ Frontend Developer
 -->
 
 ## ✍️ About Me
-I’m a frontend developer focused on building fast, scalable, and visually consistent web experiences. I turn ideas and requirements into polished, production-ready applications using Vite, React, Next.js, TypeScript, JavaScript, SCSS/SASS, Tailwind, HTML, and CSS.<br><br>I enjoy building reusable component systems, translating complex designs into intuitive interfaces, and working with UI libraries like MUI and Ant Design, as well as CSS-in-JS solutions. I also work with REST APIs and GraphQL to connect frontend experiences with the data and services behind them.<br><br>I care about clean architecture, maintainable code, responsive design, and thoughtful user experiences—building interfaces that not only look good, but are reliable and built to scale.<br>
+I’m a frontend developer focused on building fast, scalable, and visually consistent web experiences. I turn ideas and requirements into polished, production-ready applications using mainly Vite, React, Next.js, TypeScript, JavaScript, SCSS/SASS, Tailwind, HTML, and CSS.<br><br>I enjoy building reusable component systems, translating complex designs into intuitive interfaces, and working with UI libraries like MUI and Ant Design, as well as CSS-in-JS solutions. I also work with REST APIs and GraphQL to connect frontend experiences with the data and services behind them.<br><br>I care about clean architecture, maintainable code, responsive design, and thoughtful user experiences—building interfaces that not only look good, but are reliable and built to scale.<br>
 
 <!--
 ## 🌐 Socials:
